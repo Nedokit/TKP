@@ -1,0 +1,76 @@
+.constructor_block{
+	width: 100%;
+	background-color: #FFF;
+	border-radius: 10px;
+	box-shadow: 1px 1px 3px 0 #333;
+	padding: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.constructor_block .title{
+	font-family: AgoraSansProBold;
+    font-size: 22px;
+    color: #333;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #898989;
+    width: 90%;
+}
+
+.constructor_block .title b{
+	color: #00A2DA;
+}
+
+.constructor_block .text{
+	width: 90%;
+	display: block;
+	font-size: 17px;
+	margin: auto;
+}
+
+.constructor_block .constructor{
+	width: 90%;
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.constructor_block .constructor li{
+	width: calc(50% - 20px);
+	margin: 10px;
+	float: left;
+	border-radius: 10px;
+	background-color: #FFF;
+	box-shadow: 0 0 1px 0 #888;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	cursor: pointer;
+	transition-duration: 0.3s;
+}
+
+.constructor_block .constructor li:hover{
+	box-shadow: 0 0 3px 0 #888;
+	background-color: #FAFAFF;
+	transition-duration: 0.3s;
+}
+
+.constructor_block .constructor li img{width: 100%;}
+
+.constructor_block .constructor .name{
+	display: block;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #FFF;
+	margin-bottom: 10px;
+	background-color: #00A2DA;
+    background: linear-gradient(to top, #00A2DA, #0AACE4);
+    border-top: 1px dotted #F0F0F0;
+    border-bottom: 1px dotted #F0F0F0;
+    text-align: center;
+}

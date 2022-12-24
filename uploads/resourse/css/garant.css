@@ -1,0 +1,56 @@
+.content_conteiner .conteiner{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.garant_block{
+	width: 70%;
+	margin: auto;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px 0 #333;
+	border-radius: 10px;
+	text-align: center;
+	padding: 20px;
+}
+
+.garant_block .title{
+	font-family: AgoraSansProBold;
+	font-size: 22px;
+    color: #333;
+    display: block;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 700px;
+}
+
+.garant_block .text{
+	display: block;
+	margin: auto;
+	width: 90%;
+	font-size: 18px;
+}
+
+.share_line{
+	width: 100%;
+	border-bottom: 1px solid #F0F0F0;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.garant_block .text b{
+	font-weight: bold;
+	color: #06A8E0;
+}
+
+.garant_block .text p{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.garant_block .text img{
+	padding-right: 10px;
+	float: left;
+	margin-bottom: 40px;
+}

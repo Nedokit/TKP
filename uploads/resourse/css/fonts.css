@@ -1,0 +1,61 @@
+/*/Шрифты/*/
+
+@font-face {
+    font-family: "HelveticaThin";
+    src: url("../fonts/HelveticaThin/HelveticaThin.eot");
+    src: url("../fonts/HelveticaThin/HelveticaThin.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaThin/HelveticaThin.woff") format("woff"),
+    url("../fonts/HelveticaThin/HelveticaThin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "AgoraSansProBold";
+    src: url("../fonts/AgoraSansProBold/AgoraSansProBold.eot");
+    src: url("../fonts/AgoraSansProBold/AgoraSansProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AgoraSansProBold/AgoraSansProBold.woff") format("woff"),
+    url("../fonts/AgoraSansProBold/AgoraSansProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "AgoraSansProItalic";
+    src: url("../fonts/AgoraSansProItalic/AgoraSansProItalic.eot");
+    src: url("../fonts/AgoraSansProItalic/AgoraSansProItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AgoraSansProItalic/AgoraSansProItalic.woff") format("woff"),
+    url("../fonts/AgoraSansProItalic/AgoraSansProItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "AgoraSansProRegular";
+    src: url("../fonts/AgoraSansProRegular/AgoraSansProRegular.eot");
+    src: url("../fonts/AgoraSansProRegular/AgoraSansProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AgoraSansProRegular/AgoraSansProRegular.woff") format("woff"),
+    url("../fonts/AgoraSansProRegular/AgoraSansProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "AgoraSansProXThin";
+    src: url("../fonts/AgoraSansProXThin/AgoraSansProXThin.eot");
+    src: url("../fonts/AgoraSansProXThin/AgoraSansProXThin.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AgoraSansProXThin/AgoraSansProXThin.woff") format("woff"),
+    url("../fonts/AgoraSansProXThin/AgoraSansProXThin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "VoiceoftheHighlander";
+    src: url("../fonts/VoiceoftheHighlander/VoiceoftheHighlander.eot");
+    src: url("../fonts/VoiceoftheHighlander/VoiceoftheHighlander.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/VoiceoftheHighlander/VoiceoftheHighlander.woff") format("woff"),
+    url("../fonts/VoiceoftheHighlander/VoiceoftheHighlander.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

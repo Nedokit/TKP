@@ -1,0 +1,21 @@
+.rules_block{
+	width: 80%;
+	margin: auto;
+    background-color: #FFF;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 0 #333;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.rules_block .title{
+	font-family: AgoraSansProBold;
+    font-size: 22px;
+    color: #333;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+    width: 90%;
+}
